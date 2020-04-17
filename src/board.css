@@ -1,0 +1,11 @@
+html { 
+    background: url("https://i.pinimg.com/originals/cc/52/17/cc52176bc644688cf8457b6ca477a0ba.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.boardContainer{
+    text-align: center;
+}
